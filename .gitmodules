@@ -1,0 +1,3 @@
+[submodule "client_server/communication"]
+	path = client_server/communication
+	url = https://github.com/NakedSolidSnake/communication
