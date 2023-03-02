@@ -1,3 +1,6 @@
 [submodule "client_server/communication"]
 	path = client_server/communication
 	url = https://github.com/NakedSolidSnake/communication
+[submodule "docker/communication"]
+	path = docker/communication
+	url = https://github.com/NakedSolidSnake/communication.git
