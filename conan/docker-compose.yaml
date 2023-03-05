@@ -1,0 +1,9 @@
+version: "3"
+services:
+  development:
+    container_name: development
+    build: .
+    volumes:
+      - .:/development
+    ports:
+      - "8089:8089/udp"

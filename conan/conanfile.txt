@@ -1,0 +1,5 @@
+[requires]
+civetweb/1.15
+
+[generators]
+cmake

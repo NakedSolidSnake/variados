@@ -1,0 +1,9 @@
+.center {
+  position: fixed; /* or absolute */
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  font-size: 100px;
+  transform: translate(-50%, -50%);
+  color: blue;
+}
