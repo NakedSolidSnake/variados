@@ -1,0 +1,4 @@
+/media/cssouza/SOLIDCRIS/Canal_Faz_em_C/Projetos/Variados/sources/official/variados/oop-encapsulation/buidl/CMakeFiles/rebuild_cache.dir
+/media/cssouza/SOLIDCRIS/Canal_Faz_em_C/Projetos/Variados/sources/official/variados/oop-encapsulation/buidl/CMakeFiles/edit_cache.dir
+/media/cssouza/SOLIDCRIS/Canal_Faz_em_C/Projetos/Variados/sources/official/variados/oop-encapsulation/buidl/CMakeFiles/encapsulation-2.out.dir
+/media/cssouza/SOLIDCRIS/Canal_Faz_em_C/Projetos/Variados/sources/official/variados/oop-encapsulation/buidl/CMakeFiles/encapsulation-1.out.dir

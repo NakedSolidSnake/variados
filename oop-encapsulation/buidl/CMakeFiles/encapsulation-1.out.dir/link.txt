@@ -1,0 +1,1 @@
+/usr/bin/cc -D_GNU_SOURCE -Wall -std=c99 -g   CMakeFiles/encapsulation-1.out.dir/encapsulation-1.c.o CMakeFiles/encapsulation-1.out.dir/main-1.c.o  -o bin/encapsulation-1.out 

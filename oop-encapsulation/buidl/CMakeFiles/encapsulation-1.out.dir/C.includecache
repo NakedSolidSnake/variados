@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../encapsulation-1.h
+stdbool.h
+-
+
+/media/cssouza/SOLIDCRIS/Canal_Faz_em_C/Projetos/Variados/sources/official/variados/oop-encapsulation/main-1.c
+stdio.h
+-
+encapsulation-1.h
+-
+
